@@ -1,2 +1,3 @@
-#this is first tech file
-Welcome to new path tech
+#For Devprep
+This page feeds all the information. Welcome to first GO
+Second chk
